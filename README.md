@@ -1,18 +1,23 @@
-## Getting Started
+# Exercicios propostos do curso FullStack
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Aqui se pode visualizar o enunciado dos problemas que estão resolvidos em JAVA.
 
-## Folder Structure
+####  Questão 9: Duração de Evento
 
-The workspace contains two folders by default, where:
+Faça um programa que receba via teclado o tempo de duração de um evento em
+uma fábrica em uma a variável do tipo inteira (int) expressa em segundos e
+mostre-o expresso em horas, minutos e segundos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ **Entrada**
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+ O arquivo de entrada contém valores com inteiros (int) referente a quantidade de
+ segundos informada.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+ **Saída**
 
-## Dependency Management
+ Imprima a conversão realizada em HH (horas), MM (minutos) e Segundos (SS).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  ![EXEMPLOS DE SAÍDA: E09](/assets/images/E09.png)
+
+
+

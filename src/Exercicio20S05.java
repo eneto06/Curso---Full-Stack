@@ -19,6 +19,8 @@ public class Exercicio20S05 {
         System.out.println("Informe o gasto energético da familia (em R$): ");
         double consumoEnergia = sc.nextDouble();
 
+        sc.close();
+
         if (bairro.equals(santaAna)) {
 
             if (renda < 0 || consumoEnergia < 0) {

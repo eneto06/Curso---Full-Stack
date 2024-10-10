@@ -30,6 +30,8 @@ public class Exercicio31S05 {
                 break;
             }
 
+            sc.close();
+
             
             
            
